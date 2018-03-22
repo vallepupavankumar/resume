@@ -1,0 +1,46 @@
+{
+  "basics":{
+    "photo":"123.jpg",
+"name":"pavan kumar",
+"email":"vaddepavankumar@00gmail.com",
+"mobile":"7993818810"
+},
+  "Education":[
+    {
+      "course":"B-tech(Computer Science Engneering)",
+      "college":[ "G.Pullaiah college of engneering",
+        "2016-2019",
+        "70%"
+      ]
+    },
+    {
+    "course":"diploma(Computer Science Engneering)",
+    "college":[ "govt.polytechnic for minorties",
+      "2013-2015",
+      "72%"
+]
+},
+{
+  "course":"ssc",
+  "college":[ "c.r.r.m.m.c high schools",
+    "2012",
+    "75%"
+]
+}
+],
+"skills":[
+
+{
+    "name":"webtechnologies",
+    "value":"HTML,CSS"
+},
+{
+  "name":"operating systems",
+  "value":"Linux,windows"
+},
+{
+  "name":"Programing languages",
+  "value":"c,c++,java"
+}
+]
+}
